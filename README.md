@@ -242,4 +242,4 @@ Ran all test suites matching /.\\__tests__\\tests.js/i.
 
 ### Conclusion
 
-I am pleasantly surprised with the ease of integrating the jest package.  We barely touched on all but a few of jest mothods.  [Read more about jest here](https://jestjs.io/docs/api).  The verbose output is very nice.
+I am pleasantly surprised with the ease of integrating the jest package.  We barely touched on all but a few of jest methods.  [Read more about jest here](https://jestjs.io/docs/api).  The verbose output is very nice.
