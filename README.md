@@ -249,4 +249,4 @@ I am pleasantly surprised with the ease of integrating the jest package.  We bar
 <img src="./bmc_qr.png"  width="20%" height="10%">
 
 
-*or [Coffee shop](https://www.buymeacoffee.com/hurricanemark)*
+*or to the [Coffee shop](https://www.buymeacoffee.com/hurricanemark)*
