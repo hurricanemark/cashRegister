@@ -1,0 +1,23 @@
+{
+  "name": "Cash-Register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "tests": "./__tests__"
+  },
+  "scripts": {
+    "test": "jest ./__tests__/tests.js --verbose",
+    "start": "node ./index.js"
+  },
+  "keywords": ["jest", "javascript", "hashmap"],
+  "author": "Mark Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
