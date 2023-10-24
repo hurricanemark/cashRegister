@@ -1,4 +1,4 @@
-# NodeJS with `jest` Testing module
+# NodeJS with the `jest` Testing Module
 
 ***"Jest is a delightful JavaScript Testing Framework with a focus on simplicity."*** [https://jestjs.io]
 
