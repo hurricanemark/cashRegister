@@ -9,7 +9,7 @@ Given a price and a list of cash denominations, return the number of ways to mak
 
 **Input**: price, cash, cash in drawer
 
-**Output**: { status: message, change: [[denomination, number of denominations]]}
+**Output**: { status: message, change: [[denomination, number of denominations]] }
 
 
 ### Pseudo code
