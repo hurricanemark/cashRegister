@@ -1,3 +1,9 @@
+# NodeJS with `jest` Testing module
+
+***"Jest is a delightful JavaScript Testing Framework with a focus on simplicity."*** [https://jestjs.io]
+
+Let's build the logic of a cash register and test it against the jestjs module!
+
 ## Cash Register
 Given a price and a list of cash denominations, return the number of ways to make change.
 
@@ -65,22 +71,7 @@ npm run test
 **Output:**
 
 ```
-~/Cash-Register$ npm install
-
-up to date, audited 295 packages in 7s
-
-34 packages are looking for funding
-  run `npm fund` for details
-
-1 moderate severity vulnerability
-
-To address all issues, run:
-  npm audit fix
-
-Run `npm audit` for details.
-~/Cash-Register$ npm run test
-
-> Cash-Register@1.0.0 test
+> cashregister@1.0.0 test
 > jest ./__tests__/tests.js --verbose
 
   console.log
@@ -248,3 +239,7 @@ Snapshots:   0 total
 Time:        2.02 s
 Ran all test suites matching /.\\__tests__\\tests.js/i.
 ```
+
+### Conclusion
+
+I am pleasantly surprised with the ease of integrating the jest package.  We barely touched on all but a few of jest mothods.  [Read more about jest here](https://jestjs.io/docs/api).  The verbose output is very nice.

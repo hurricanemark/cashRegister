@@ -1,3 +1,9 @@
+/** @type {import('jest').Config} */
+const config = {
+    verbose: true,
+  };
+// Note that we are not making use of config in the package.json but rather shortcutting to --verbose flag.
+
 function checkCashRegister(price, cash, cid) {
 
     let remitant = parseFloat(cash - price).toFixed(2);
@@ -228,4 +234,4 @@ function checkCashRegister(price, cash, cid) {
   grainula_tests();
   
   /* export to test scripts */
-  module.exports = checkCashRegister;
+  module.exports = checkCashRegister, config;
